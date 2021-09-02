@@ -510,6 +510,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 nebular-icons
 MIT
 
+ngx-echarts
+MIT
+
 pace-js
 MIT
 Copyright (c) 2013 HubSpot, Inc.
